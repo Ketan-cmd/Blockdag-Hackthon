@@ -133,5 +133,6 @@ The application can be deployed to:
 - IPFS (for decentralized hosting)
 
 ## Support
-
+Check out my repositories, projects, and contributions at my GitHub profile:
+https://github.com/Ketan-cmd
 For support and questions, please open an issue in the repository or contact the development team.
